@@ -1,0 +1,19 @@
+{
+  "name": "discordjs-class-commands",
+  "version": "1.0.0",
+  "description": "Class command handler for discord.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PastEquation922/discordjs-class-commands.git"
+  },
+  "author": "PastEquation922",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PastEquation922/discordjs-class-commands/issues"
+  },
+  "homepage": "https://github.com/PastEquation922/discordjs-class-commands#readme"
+}
