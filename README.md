@@ -1,1 +1,1 @@
-# discordjs-class-commands
+# Discord.js Class Commands
